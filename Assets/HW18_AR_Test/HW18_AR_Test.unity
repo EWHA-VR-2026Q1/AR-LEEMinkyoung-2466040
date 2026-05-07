@@ -200,14 +200,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: "Screenshot 2026-05-07 at 9.29.44\u202FPM"
+  mTrackableName: avengers
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 0.83728814
+  mAspectRatio: 1.5
   mImageTargetType: 3
-  mWidth: 0.20000002
-  mHeight: 0.16745764
-  mRuntimeTexture: {fileID: 2800000, guid: 6d381bf656e894bfe9d340d6784dd1b5, type: 3}
+  mWidth: 0.13333334
+  mHeight: 0.20000002
+  mRuntimeTexture: {fileID: 2800000, guid: 59694fd7af0b34445b0d09176339aedd, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 249899643}
   mHiddenRoot: {fileID: 0}
-  mTargetName: "Screenshot 2026-05-07 at 9.29.44\u202FPM"
+  mTargetName: avengers
   mDatasetName: Vuforia/VuforiaMars_Images.xml
   mCastedBehaviour: {fileID: 249899643}
   mMeshFilter: {fileID: 0}
@@ -489,7 +489,7 @@ Transform:
   m_GameObject: {fileID: 1785373511}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0095, y: 0, z: 0}
+  m_LocalPosition: {x: -0.0095, y: 0, z: 0.02}
   m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
   m_ConstrainProportionsScale: 0
   m_Children: []
